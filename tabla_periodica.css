@@ -1,0 +1,89 @@
+
+body{
+background-color: rgb(238, 238, 238);
+}
+#plomo{
+    background-color: rgb(238, 238, 238);
+    color: red;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-top: 25px;
+}
+#plomo2{
+    background-color: rgb(238, 238, 238);
+    width: 10px;
+    height: 60px;
+    display: inline-block;
+    vertical-align: top;
+    color: red;
+    margin-top: 25px;
+}
+#plomo3{
+    background-color: rgb(238, 238, 238);
+    width: auto;
+    height: 60px;
+    display:block;
+    padding-top: 5px;
+    
+    }
+
+#plomo4{
+    background-color: rgb(238, 238, 238);
+    width: 125px;
+    height: 60px;
+    display: inline-block;
+    vertical-align: top;
+    color: red;
+    margin-top: 25px;
+}
+#azul{
+    background-color: rgb(104, 155, 255);
+    width: 58px;
+    height: 58px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    border:solid 1px black;
+    
+}
+#rosado{
+    background-color: rgb(253, 154, 152);
+    width: 58px;
+    height: 58px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    border:solid 1px black;
+}
+#amarillo{
+    background-color: rgb(254, 203, 0);
+    width: 58px;
+    height: 58px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    border:solid 1px black;
+}
+#verde{
+    background-color: rgb(31, 202, 33);
+    width: 58px;
+    height: 58px; display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    border:solid 1px black;
+}
+p {
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 13px;
+}
+#letra_elemeto{
+    color:rgb(34, 49, 182);
+    font-size: 25px;
+}
